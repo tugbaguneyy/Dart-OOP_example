@@ -1,5 +1,4 @@
-# Dart-OOP_example
-# Bank Application
+# Dart-OOP_example-Bank Application
 
 This Dart project simulates a basic banking application. Users can create accounts, deposit and withdraw money, and perform inter-account transfers.
 
